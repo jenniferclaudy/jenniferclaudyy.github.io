@@ -547,14 +547,4 @@ li {
     width: 100vw;
   }
   
-  section .left, section .right {
-    width: 100%;
-    height: 50vh;
-  }
-  
-  section .melayang {
-    top: 80%;
-    left: 10%;
-    width: 90%;
-  }
 }
